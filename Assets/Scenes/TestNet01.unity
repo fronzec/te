@@ -221,14 +221,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55a548c924c2d48e689388c52384581a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  broadcastIdentifier: GameIdentifier
-  minPlayers: 1
+  broadcastIdentifier: TestGame
+  minPlayers: 2
   maxPlayers: 4
   playerPrefab: {fileID: 114343563507326906, guid: 767182265f1321c4fbbb90f131535cfc,
     type: 2}
   countdownDuration: 3
   listener: {fileID: 1268226748}
-  verboseLogging: 0
+  verboseLogging: 1
   useDebugGUI: 1
   forceServer: 0
 --- !u!4 &943092532
